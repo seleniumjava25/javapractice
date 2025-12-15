@@ -27,7 +27,7 @@ public class LargestOfTwoNumbers {
 	
     public static void main(String[] args) {
         int num1 = 20;
-        int num2 = 30;
+        int num2 = 40;
 
         // Logical error: Using ">" instead of ">="
         if (num1 > num2) {
