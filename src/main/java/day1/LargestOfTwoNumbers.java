@@ -26,8 +26,8 @@ package day1;
 public class LargestOfTwoNumbers {
 	
     public static void main(String[] args) {
-        int num1 = 10;
-        int num2 = 20;
+        int num1 = 20;
+        int num2 = 30;
 
         // Logical error: Using ">" instead of ">="
         if (num1 > num2) {
